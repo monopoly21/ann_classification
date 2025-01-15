@@ -33,3 +33,23 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/krishnaik06/ANN-CLassification-Churn.git
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+
+## Usage
+   - Open the hosted app or run it locally.
+   - Enter customer details in the input fields.
+   - Click on the "Predict" button to get the churn prediction.
+
+## Future Enhancements
+   - Incorporate additional features to improve prediction accuracy.
+   - Add a feature to upload bulk data for batch predictions.
+   - Enhance the user interface for better user experience.
+## License
+   - This project is licensed under the MIT License.
